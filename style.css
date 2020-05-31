@@ -1,0 +1,1031 @@
+html {
+	font-family: -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.mediaViewInfo {
+	--web-view-name: indexScroll;
+	--web-view-id: indexScroll;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: indexScroll;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.indexScroll_Class {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 375px;
+	height: 1067px;
+	background-color: rgba(231,230,230,1);
+	overflow: hidden;
+	--web-view-name: indexScroll;
+	--web-view-id: indexScroll;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Asset_1_Class {
+	position: absolute;
+	width: 591px;
+	height: 635px;
+	left: -108px;
+	top: -278px;
+	overflow: visible;
+}
+.Group_9_Class {
+	position: absolute;
+	width: 323.981px;
+	height: 59px;
+	left: 19px;
+	top: 34px;
+	overflow: visible;
+}
+.Group_8_Class {
+	position: absolute;
+	width: 242.918px;
+	height: 59px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_7_Class {
+	position: absolute;
+	width: 57px;
+	height: 57px;
+	left: 0px;
+	top: 2px;
+	overflow: visible;
+}
+.Intersection_1 {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 40px;
+	left: 11px;
+	top: 16.999px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+}
+.Erick_Class {
+	position: absolute;
+	left: 76px;
+	top: 0px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+.ag_0001___c_c_12345_67_Class {
+	position: absolute;
+	left: 76px;
+	top: 35px;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+.Path_85 {
+	overflow: visible;
+	position: absolute;
+	width: 12.231px;
+	height: 7.53px;
+	left: 232.101px;
+	top: 42.226px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Subtraction_1 {
+	overflow: visible;
+	position: absolute;
+	width: 21.336px;
+	height: 18.874px;
+	transform: translate(376px, -39px) matrix(1,0,0,1,-72.8451,60.7796) rotate(266deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Group_10_Class {
+	position: absolute;
+	width: 102px;
+	height: 12px;
+	left: 137px;
+	top: 444px;
+	overflow: visible;
+}
+.Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 12px;
+	height: 12px;
+	left: 30px;
+	top: 0px;
+}
+.Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 12px;
+	height: 12px;
+	left: 60px;
+	top: 0px;
+}
+.Ellipse_159 {
+	position: absolute;
+	overflow: visible;
+	width: 12px;
+	height: 12px;
+	left: 90px;
+	top: 0px;
+}
+.Path_250 {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 36px;
+	top: 53px;
+}
+.Repeat_Grid_1_Class {
+	position: absolute;
+	width: 375px;
+	height: 576px;
+	left: 0px;
+	top: 492px;
+	overflow: hidden;
+}
+.Repeat_Grid_1_0_Class {
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_87 {
+	overflow: visible;
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: objetivo.html;
+	cursor: pointer;
+}
+.Caixa_dos_Sonhos_Class {
+	position: absolute;
+	left: 24px;
+	top: 21px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(77,77,79,1);
+}
+.Path_89 {
+	overflow: visible;
+	position: absolute;
+	width: 10.817px;
+	height: 5.408px;
+	transform: translate(-814px, -733px) matrix(1,0,0,1,1149.1009,762.2261) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_1_Class {
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 64px;
+	overflow: visible;
+}
+.Path_87_d {
+	overflow: visible;
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Poupa_pra_Mim_Class {
+	position: absolute;
+	left: 24px;
+	top: 21px;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(77,77,79,1);
+}
+.Path_89_d {
+	overflow: visible;
+	position: absolute;
+	width: 10.817px;
+	height: 5.408px;
+	transform: translate(-814px, -733px) matrix(1,0,0,1,1149.1009,762.2261) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_2_Class {
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 128px;
+	overflow: visible;
+}
+.Path_87_ea {
+	overflow: visible;
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Extrato_Class {
+	position: absolute;
+	left: 24px;
+	top: 21px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(77,77,79,1);
+}
+.Path_89_ea {
+	overflow: visible;
+	position: absolute;
+	width: 10.817px;
+	height: 5.408px;
+	transform: translate(-814px, -733px) matrix(1,0,0,1,1149.1009,762.2261) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_3_Class {
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 192px;
+	overflow: visible;
+}
+.Path_87_ec {
+	overflow: visible;
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Pagamentos_Class {
+	position: absolute;
+	left: 24px;
+	top: 21px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(77,77,79,1);
+}
+.Path_89_ee {
+	overflow: visible;
+	position: absolute;
+	width: 10.817px;
+	height: 5.408px;
+	transform: translate(-814px, -733px) matrix(1,0,0,1,1149.1009,762.2261) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_4_Class {
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 256px;
+	overflow: visible;
+}
+.Path_87_eg {
+	overflow: visible;
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Dep_sito_via_Boleto_Banc_rio_Class {
+	position: absolute;
+	left: 24px;
+	top: 21px;
+	overflow: visible;
+	width: 210px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(77,77,79,1);
+}
+.Path_89_ei {
+	overflow: visible;
+	position: absolute;
+	width: 10.817px;
+	height: 5.408px;
+	transform: translate(-814px, -733px) matrix(1,0,0,1,1149.1009,762.2261) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_5_Class {
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 320px;
+	overflow: visible;
+}
+.Path_87_ek {
+	overflow: visible;
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Objetivo_Class {
+	position: absolute;
+	left: 24px;
+	top: 21px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(77,77,79,1);
+}
+.Path_89_em {
+	overflow: visible;
+	position: absolute;
+	width: 10.817px;
+	height: 5.408px;
+	transform: translate(-814px, -733px) matrix(1,0,0,1,1149.1009,762.2261) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_6_Class {
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 384px;
+	overflow: visible;
+}
+.Path_87_eo {
+	overflow: visible;
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Objetivo_ep_Class {
+	position: absolute;
+	left: 24px;
+	top: 21px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(77,77,79,1);
+}
+.Path_89_eq {
+	overflow: visible;
+	position: absolute;
+	width: 10.817px;
+	height: 5.408px;
+	transform: translate(-814px, -733px) matrix(1,0,0,1,1149.1009,762.2261) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_7_Class {
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 448px;
+	overflow: visible;
+}
+.Path_87_es {
+	overflow: visible;
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Objetivo_et_Class {
+	position: absolute;
+	left: 24px;
+	top: 21px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(77,77,79,1);
+}
+.Path_89_eu {
+	overflow: visible;
+	position: absolute;
+	width: 10.817px;
+	height: 5.408px;
+	transform: translate(-814px, -733px) matrix(1,0,0,1,1149.1009,762.2261) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_8_Class {
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 512px;
+	overflow: visible;
+}
+.Path_87_ew {
+	overflow: visible;
+	position: absolute;
+	width: 375px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Objetivo_ex_Class {
+	position: absolute;
+	left: 24px;
+	top: 21px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(77,77,79,1);
+}
+.Path_89_ey {
+	overflow: visible;
+	position: absolute;
+	width: 10.817px;
+	height: 5.408px;
+	transform: translate(-814px, -733px) matrix(1,0,0,1,1149.1009,762.2261) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Group_12_Class {
+	position: absolute;
+	width: 34px;
+	height: 12px;
+	left: 155px;
+	top: 519px;
+	overflow: visible;
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+}
+.NOVO_Class {
+	position: absolute;
+	left: 7px;
+	top: 1px;
+	overflow: visible;
+	width: 21px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 7px;
+	color: rgba(255,255,255,1);
+}
+.Group_61_Class {
+	position: absolute;
+	width: 847px;
+	height: 287px;
+	left: -234px;
+	top: 119px;
+	overflow: visible;
+}
+.debit_card_Class {
+	position: absolute;
+	width: 255px;
+	height: 287px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.rectangle {
+	filter: drop-shadow(3px 3px 3px rgba(0, 0, 0, 0.071));
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 296px;
+	left: 0px;
+	top: 0px;
+}
+.Conta_Saldo_dispon_vel__Class {
+	position: absolute;
+	left: 22px;
+	top: 21px;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,77,79,1);
+}
+.Cart_es_Limites_gerais_dispon__Class {
+	position: absolute;
+	left: 22px;
+	top: 111px;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,77,79,1);
+}
+.Investimentos_01_06_2020__Class {
+	position: absolute;
+	left: 22px;
+	top: 201px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,77,79,1);
+}
+.R__1_396_46_Class {
+	position: absolute;
+	left: 22px;
+	top: 55px;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(77,77,79,1);
+}
+.R__723_35_Class {
+	position: absolute;
+	left: 22px;
+	top: 145px;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(77,77,79,1);
+}
+.R__1_625_12_Class {
+	position: absolute;
+	left: 22px;
+	top: 235px;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(77,77,79,1);
+}
+.debit_card_fb_Class {
+	position: absolute;
+	width: 255px;
+	height: 287px;
+	left: 592px;
+	top: 0px;
+	overflow: visible;
+}
+.rectangle_fc {
+	filter: drop-shadow(3px 3px 3px rgba(0, 0, 0, 0.071));
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 296px;
+	left: 0px;
+	top: 0px;
+}
+.Conta_Saldo_dispon_vel__fd_Class {
+	position: absolute;
+	left: 22px;
+	top: 21px;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,77,79,1);
+}
+.Cart_es_Limites_gerais_dispon__fe_Class {
+	position: absolute;
+	left: 22px;
+	top: 111px;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,77,79,1);
+}
+.Investimentos_01_06_2020__ff_Class {
+	position: absolute;
+	left: 22px;
+	top: 201px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,77,79,1);
+}
+.R__1_396_46_fg_Class {
+	position: absolute;
+	left: 22px;
+	top: 55px;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(77,77,79,1);
+}
+.R__723_35_fh_Class {
+	position: absolute;
+	left: 22px;
+	top: 145px;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(77,77,79,1);
+}
+.R__1_625_12_fi_Class {
+	position: absolute;
+	left: 22px;
+	top: 235px;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(77,77,79,1);
+}
+.Group_60_Class {
+	position: absolute;
+	width: 255px;
+	height: 287px;
+	left: 296px;
+	top: 0px;
+	overflow: visible;
+}
+.rectangle_fk {
+	filter: drop-shadow(3px 3px 3px rgba(0, 0, 0, 0.071));
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 296px;
+	left: 0px;
+	top: 0px;
+}
+.Group_59_Class {
+	position: absolute;
+	width: 212px;
+	height: 63px;
+	left: 18px;
+	top: 24px;
+	overflow: visible;
+}
+.Viagem_para_Fernando__de_Noron_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(77,77,79,1);
+}
+.regular_slider_1_light_Class {
+	position: absolute;
+	width: 211px;
+	height: 12px;
+	left: 1px;
+	top: 37px;
+	overflow: visible;
+}
+.slider_bar {
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	height: 2px;
+	left: 0px;
+	top: 5px;
+}
+.slider_active {
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	height: 2px;
+	left: 0px;
+	top: 5px;
+}
+.slider_knob {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 79.867px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.R__1_667_00_Class {
+	position: absolute;
+	left: 63px;
+	top: 52px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(0,180,141,1);
+	letter-spacing: 0.1px;
+}
+.Group_58_Class {
+	position: absolute;
+	width: 212px;
+	height: 63px;
+	left: 18px;
+	top: 112px;
+	overflow: visible;
+}
+.debit_card_ft_Class {
+	position: absolute;
+	width: 115px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Juntar_dinheiro_para_pagar_FIE_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(77,77,79,1);
+}
+.regular_slider_1_light_fv_Class {
+	position: absolute;
+	width: 211px;
+	height: 12px;
+	left: 1px;
+	top: 39px;
+	overflow: visible;
+}
+.slider_bar_fw {
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	height: 2px;
+	left: 0px;
+	top: 5px;
+}
+.slider_active_fx {
+	overflow: visible;
+	position: absolute;
+	width: 72.749px;
+	height: 2px;
+	left: 0px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.slider_knob_fy {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 69.867px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.R__4_667_00_Class {
+	position: absolute;
+	left: 53px;
+	top: 52px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(206,47,35,1);
+	letter-spacing: 0.1px;
+}
+.Group_57_Class {
+	position: absolute;
+	width: 212px;
+	height: 63px;
+	left: 18px;
+	top: 201px;
+	overflow: visible;
+}
+.debit_card_f_Class {
+	position: absolute;
+	width: 90px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Tirar_carteira_de_Moto__Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(77,77,79,1);
+}
+.regular_slider_1_light_f_Class {
+	position: absolute;
+	width: 211px;
+	height: 12px;
+	left: 1px;
+	top: 37px;
+	overflow: visible;
+}
+.slider_bar_f {
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	height: 2px;
+	left: 0px;
+	top: 5px;
+}
+.slider_active_f {
+	overflow: visible;
+	position: absolute;
+	width: 31.261px;
+	height: 2px;
+	left: 0px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.slider_knob_f {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 25.867px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.R__150_00_Class {
+	position: absolute;
+	left: 12px;
+	top: 52px;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(248,185,80,1);
+	letter-spacing: 0.1px;
+}
